@@ -1,0 +1,1 @@
+* Able to trace back all the funds related to a contract (loan?) which later confirmed to be a part of corruption, without compromising privacy (invisible punishment? or not?)
