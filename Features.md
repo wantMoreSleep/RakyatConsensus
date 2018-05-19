@@ -1,1 +1,1 @@
-* Able to trace back all the funds related to a contract (loan?) which later confirmed to be a part of corruption, without compromising privacy (invisible punishment? or not?)
+* Able to trace back all the funds related to a contract (loan?) which later confirmed to be a part of corruption, without compromising privacy (invisible punishment? or not?). Return all participating funds back to the investor, like nothing happened before, any gap should be filled by the crime committer.
